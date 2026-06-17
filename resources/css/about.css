@@ -31,15 +31,7 @@
 }
 
 /* left layout */
-.title-btn{
-    padding: 5px 30px;
-    width: 150px;
-    border: 0;
-    border-radius: 30px;
-    background-color: white;
-    color: #2E4384;
-    font-weight: 700;
-}
+
 .left-about h2{
     font-weight: 700;
 }

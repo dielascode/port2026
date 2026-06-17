@@ -1,0 +1,29 @@
+.expert-section{
+    padding: 40px 100px;
+    background-color: #F4F2ED;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.expert-content{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+.expert-content .card-expert{
+    width: 70%;
+    background-color: white;
+    border-radius: 30px;
+    padding: 20px;
+}
+.card-expert .card-header{
+    background-color: transparent;
+    border: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.card-expert .card-header h5{
+    font-weight: 700;
+}
